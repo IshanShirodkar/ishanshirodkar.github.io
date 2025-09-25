@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-<a href="mailto:ishanshirodkar@gmail.com">ishanshirodkar@gmail.com</a>
+subtitlr: <a href="mailto:ishanshirodkar@gmail.com">ishanshirodkar@gmail.com</a>
 
 profile:
   align: right
